@@ -1,6 +1,6 @@
 <template>
     <div class="Teste-Evento">
-        <h2> Teste Evento</h2>
+        <h2> Teste Evento!</h2>
         <p @click="deixarMaiuscula">{{ mensagem }}</p>
     </div>
 </template>
